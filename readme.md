@@ -2,7 +2,7 @@
 A blog about adventure, exploration and the occasional fish. <br>
 https://kaiyotesoft.github.io/blog/
 
-![Website Screenshot](https://github.com/KaiyoteSoft/blog/blob/master/img/trout.jpg?raw=true)
+![Website Screenshot](https://github.com/KaiyoteSoft/blog/blob/master/img/blogScreenshot.JPG?raw=true)
 
 
 ## Template from Bootstrapius 
