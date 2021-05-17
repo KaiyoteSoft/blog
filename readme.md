@@ -1,5 +1,5 @@
 # Kid Fish Release 
-A blog about fishing <br>
+A blog about adventure, exploration and the occasional fish. <br>
 https://kaiyotesoft.github.io/blog/
 
 ![Website Screenshot](https://github.com/KaiyoteSoft/blog/blob/master/img/trout.jpg?raw=true)
