@@ -1,7 +1,7 @@
 
 
 
-### Template from Bootstrapius 
+## Template from Bootstrapius 
 - Template documentation is below 
 
 CSS
